@@ -6,5 +6,8 @@ node_js:
   - '14'
 script:
   - cd hello && npm i && CI=true npm test
+  - cd ..
   - cd hello-functional && npm i && CI=true npm test
+  - cd ..
   - cd randompeople && npm i && CI=true npm test
+  - cd ..
