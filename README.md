@@ -19,6 +19,7 @@
 |Cap: Big Project|
 |[React DIGG clone](https://github.com/pxai/05-react-todo-redux-saga).|TODO list implemented using reducer hook and Redux Saga|[![Build Status](https://app.travis-ci.com/pxai/05-react-todo-redux-thunk.svg?branch=master)](https://app.travis-ci.com/pxai/05-react-todo-redux-thunk)|
 |Cap: React Native|
+|[Brain Train app](https://github.com/pxai/braintrain).|NextJS Polls app|[![Build Status](https://app.travis-ci.com/pxai/braintrain.svg?branch=master)](https://app.travis-ci.com/pxai/braintrain)|
 |TypeScript|
 |Cap: Nextjs|
 |[NextJs Polls app](https://github.com/pxai/nextjs-polls).|NextJS Polls app|[![Build Status](https://app.travis-ci.com/pxai/nextjs-polls.svg?branch=master)](https://app.travis-ci.com/pxai/nextjs-polls)|
