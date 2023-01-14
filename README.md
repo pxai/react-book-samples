@@ -2,6 +2,8 @@
 
 |Project|Description|Build|
 |--|--|--|
+|Cap : Basic React|
+|[React Hello World](https://github.com/pxai/react-hello-world).|React Hello World simplest example|[![Build Status](https://app.travis-ci.com/pxai/react-hello-world.svg?branch=master)](https://app.travis-ci.com/pxai/react-hello-world)|
 |Cap : TODO Projects|
 |[React TODO list with hooks](https://github.com/pxai/00-react-todo-hooks).|TODO list implemented using hooks|[![Build Status](https://app.travis-ci.com/pxai/00-react-todo-hooks.svg?branch=master)](https://app.travis-ci.com/pxai/00-react-todo-hooks)|
 |[React TODO list with hooks and TS](https://github.com/pxai/00-react-todo-hooks-ts).|TODO list implemented using hooks and TypeScript|[![Build Status](https://app.travis-ci.com/pxai/00-react-todo-hooks-ts.svg?branch=master)](https://app.travis-ci.com/pxai/00-react-todo-hooks-ts)|
